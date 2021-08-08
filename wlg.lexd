@@ -1,0 +1,65 @@
+PATTERNS
+(adj_person | adj_class[old]) adj[old]
+(adj_person | adj_class[new]) adj[new]
+
+LEXICON adj
+mak[new]         # good
+buke[old]        # old
+
+LEXICON adj_person
+<1sg>:ngarra
+<2sg>:kirri
+<1du.excl>:ngana
+<1incl>:ngarrak
+<2du>:ngunu
+<3du>:kinbarra
+<1pl.excl>:ngadda
+<2pl>:nguddu
+<3pl>:kinbadda
+
+LEXICON adj_class
+<I>:na
+<II>[old]:ki[old]
+<II>[new]:kin[new]
+<III>[old]:ma[old]
+<III>[new]:man[new]
+<IV>[old]:ku[old]
+<IV>[new]:kun[new]
+
+LEXICON Numeral
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+
+LEXICON Punctuation
+.<sent>:.
+..<sent>:..
+...<sent>:...
+;<sent>:;
+\:<sent>:\:
+!<sent>:!
+-<guio>:-
+—<guio>:—
+,<cm>:,
+?<sent>:? 
+'<apos>:'
+"<quot>:"
+«<lquot>:«
+»<rquot>:»
+”<rquot>:”
+“<lquot>:“
+(<lpar>:(
+\]<rpar>:\]
+\[<lpar>:\[
+)<rpar>:)
+\\<sent>:\\
+\/<sent>:\/
+

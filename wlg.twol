@@ -1,0 +1,10 @@
+Alphabet
+ A B D E G I K M N R U
+ a b d e g i k m n r u
+! Previous lines are generated automatically
+ %>:0  ;
+
+Rules
+
+"drop morpheme boundary"
+%>:0 <=> _ ;

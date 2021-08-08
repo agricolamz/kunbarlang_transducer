@@ -1,0 +1,27 @@
+id	form	gloss	declination	vanyaHasDoubts	veryFreeTranslation
+1	ngarra-buke	1sg-old	oldClass		I’m old
+2	ngana-buke	1du.excl-old	oldClass		We two are old
+3	ngadda-buke	1pl.excl-old	oldClass		We are old
+4	ngarrak-buke	1incl-old	oldClass	yes	We (incl. you) are old
+5	kirri-buke	2sg-old	oldClass		You’re old
+6	ngunu-buke	2du-old	oldClass		You two are old
+7	nguddu-buke	2pl-old	oldClass		You guys are old
+8	na-buke	I-old	oldClass		old [man]
+9	ki-buke	II-old	oldClass		old [woman]
+10	ma-buke	III-old	oldClass		old [vegetable]
+11	ku-buke	IV-old	oldClass		old [rock]
+12	kinbarra-buke	3du-old	oldClass		They two are old
+13	kinbadda-buke	3pl-old	oldClass		They are old
+14	ngarra-mak	1sg-good	newClass		I’m good
+15	ngana-mak	1du.excl-good	newClass		We two are good
+16	ngadda-mak	1pl.excl-good	newClass		We are good
+17	ngarrak-mak	1incl-good	newClass		We (incl. you) are good
+18	kirri-mak	2sg-good	newClass		You’re good
+19	ngunu-mak	2du-good	newClass		You two are good
+20	nguddu-mak	2pl-good	newClass		You guys are good
+21	na-mak	I-good	newClass		good [man]
+22	kin-mak	II-good	newClass		good [woman]
+23	man-mak	III-good	newClass		good [vegetable]
+24	kun-mak	IV-good	newClass		good [rock]
+25	kinbarra-mak	3du-good	newClass		They two are good
+26	kinbadda-mak	3pl-good	newClass		They are good
