@@ -36,5 +36,5 @@ $ make
 In order to see generated forms after compiling the trasducer, you should be able to run:
 
 ```bash
-hfst-fst2strings wlg.ana.hfst
+$ hfst-fst2strings wlg.ana.hfst
 ```
